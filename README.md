@@ -1,1 +1,1 @@
-# Astrometry.github.io
+# astrometry.github.io
